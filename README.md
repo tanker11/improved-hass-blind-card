@@ -4,7 +4,7 @@
 
 This card allows to open, close or set a blind to the opening rate you want. Sta
 
-![blind card](https://raw.githubusercontent.com/Deejayfool/hass-blind-card/master/images/blind-card.gif)
+![blind card](https://raw.githubusercontent.com/tungmeister/hass-blind-card/master/images/blind-anim.gif)
 
 ## Configuration
 
