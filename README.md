@@ -38,9 +38,10 @@ entities:
     name: Left blind
     buttons_position: left
     title_position: bottom
-    blind_color: 'orange'
+    blind_color: '#FFD580'
   - cover.bedroom_blind
 ```
+![Colored Blind](https://raw.githubusercontent.com/tungmeister/hass-blind-card/master/images/colored.png)
 
 ## Install
 
