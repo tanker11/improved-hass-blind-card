@@ -2,7 +2,7 @@ class BlindCard extends HTMLElement {
   set hass(hass) {
     const _this = this;
     const entities = this.config.entities;
-    
+    //my-comment
     //Init the card
     if (!this.card) {
       const card = document.createElement('ha-card');
